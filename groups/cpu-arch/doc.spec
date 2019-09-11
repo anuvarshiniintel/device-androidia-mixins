@@ -24,6 +24,3 @@ It's used for x86 generic cpu-arch.
 
 --- skylake
 It's used for skylake cpu-arch.
-
---- kbl
-It's used for kabylake cpu-arch
